@@ -1,0 +1,5 @@
+habitat=10000
+colony=5000
+food=5000
+water=1000
+special_outfit=500
